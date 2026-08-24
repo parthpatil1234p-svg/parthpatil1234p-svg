@@ -13,19 +13,15 @@
 ---
 
 <div align="center">
-
-╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM INITIALIZED                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  USER       : PARTH PATIL                                    ║
-║  USERNAME   : parthpatil1234p-svg                            ║
-║  ROLE       : BCA STUDENT / DEVELOPER                        ║
-║  STATUS     : ONLINE                                         ║
-║  MODE       : BUILDING                                       ║
-║  INTERESTS  : AI • WEB • E-COMMERCE • AUTOMATION             ║
-║                                                              ║
-║  >> SYSTEM READY...                                          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+                    SYSTEM INITIALIZED   
+  
+   USER       : PARTH PATIL                                    
+   USERNAME   : parthpatil1234p-svg                           
+   ROLE       : BCA STUDENT / DEVELOPER                       
+   STATUS     : ONLINE                                        
+   MODE       : BUILDING                                      
+   INTERESTS  : AI • WEB • E-COMMERCE • AUTOMATION            
+                                                               
+   >> SYSTEM READY... 
+                                                               
 </div>
