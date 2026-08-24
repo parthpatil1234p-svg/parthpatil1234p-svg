@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**parthpatil1234p-svg/parthpatil1234p-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ PARTH PATIL ⚡
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;BCA+Student;Generative+AI+Explorer;AI+%26+Web+Developer;Building+Real+World+Projects;E-Commerce+%26+Dropshipping+Tools;Always+Learning+%7C+Always+Building" alt="Typing SVG">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=parthpatil1234p-svg&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS">
+
+</div>
+
+<div align="center">
+                     SYSTEM INITIALIZED                        
+                                 
+   USER       : PARTH PATIL                                    
+   USERNAME   : parthpatil1234p-svg                            
+   ROLE       : BCA STUDENT / DEVELOPER                        
+   STATUS     : ONLINE                                         
+   MODE       : BUILDING                                       
+   INTERESTS  : AI • WEB • E-COMMERCE • AUTOMATION             
+                                                               
+   >> SYSTEM READY...                                          
+                                                              
+</div>
