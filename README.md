@@ -25,28 +25,3 @@
    >> SYSTEM READY... 
                                                                
 </div>
-
-{
-  "name": "Parth Patil",
-  "username": "parthpatil1234p-svg",
-  "education": "BCA Student",
-  "role": "Aspiring Full Stack Web Developer",
-  "location": "India",
-
-  "currently_learning": [
-    "Full Stack Web Development",
-    "Generative AI",
-    "AI Workflows",
-    "Backend Development",
-    "Database Management"
-  ],
-
-  "currently_building": [
-    "AI Powered Applications",
-    "E-Commerce Tools",
-    "Dropshipping Tools",
-    "Automation Projects"
-  ],
-
-  "mindset": "Learn → Build → Improve → Repeat"
-}
