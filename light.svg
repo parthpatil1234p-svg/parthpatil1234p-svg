@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Parth Patil GitHub profile hero">
+<defs>
+  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset="50%" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="8s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <radialGradient id="bg1"><stop stop-color="#2563EB" stop-opacity=".42"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="bg2"><stop stop-color="#06B6D4" stop-opacity=".22"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+  <clipPath id="clip"><rect x="12" y="12" width="1156" height="586" rx="34"/></clipPath>
+</defs>
+<rect width="1180" height="610" rx="34" fill="#FFFFFF"/>
+<g clip-path="url(#clip)">
+  <circle cx="120" cy="80" r="260" fill="url(#bg1)"><animateTransform attributeName="transform" type="translate" values="0 0;70 25;0 0" dur="12s" repeatCount="indefinite"/></circle>
+  <circle cx="1030" cy="510" r="310" fill="url(#bg2)"><animateTransform attributeName="transform" type="translate" values="0 0;-60 -35;0 0" dur="15s" repeatCount="indefinite"/></circle>
+  <path d="M0 120H1180M0 300H1180M0 480H1180" stroke="#fff" stroke-opacity=".025"/>
+  <g fill="#22D3EE" opacity=".45">
+    <circle cx="76" cy="110" r="1.7"><animate attributeName="cy" values="110;95;110" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="510" cy="75" r="1.4"><animate attributeName="cy" values="75;105;75" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="150" r="1.6"><animate attributeName="cy" values="150;125;150" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="920" cy="545" r="1.5"><animate attributeName="cy" values="545;520;545" dur="4.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect x="24" y="24" width="1132" height="562" rx="28" fill="#0F172A" fill-opacity=".72" stroke="#fff" stroke-opacity=".08"/>
+  <rect x="26" y="26" width="1128" height="558" rx="26" fill="none" stroke="url(#accent)" stroke-opacity=".28">
+    <animate attributeName="stroke-opacity" values=".15;.55;.15" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Left ASCII / identity -->
+  <g transform="translate(70 102)">
+    <text x="0" y="0" font-family="monospace" font-size="13" fill="#475569">$ whoami</text>
+    <g font-family="monospace" font-size="12" fill="url(#accent)" filter="url(#glow)">
+      <text x="0" y="48" opacity="0"><animate attributeName="opacity" values="0;1" begin=".2s" dur=".5s" fill="freeze"/>(づ｡◕‿‿◕｡)づ</text>
+      <text x="0" y="66" opacity="0"><animate attributeName="opacity" values="0;1" begin=".45s" dur=".5s" fill="freeze"/>      ╭──────────╮</text>
+      <text x="0" y="84" opacity="0"><animate attributeName="opacity" values="0;1" begin=".7s" dur=".5s" fill="freeze"/>      │  PARTH   │</text>
+      <text x="0" y="102" opacity="0"><animate attributeName="opacity" values="0;1" begin=".95s" dur=".5s" fill="freeze"/>      │  PATIL    │</text>
+      <text x="0" y="120" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.2s" dur=".5s" fill="freeze"/>      ╰──────────╯</text>
+      <text x="0" y="138" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.45s" dur=".5s" fill="freeze"/>        ╱╲  ╱╲</text>
+      <text x="0" y="156" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.7s" dur=".5s" fill="freeze"/>       ╱  ╲╱  ╲</text>
+    </g>
+    <text x="0" y="212" font-family="monospace" font-size="12" fill="#475569">BCA STUDENT • FULL STACK • AI</text>
+    <text x="0" y="242" font-family="monospace" font-size="11" fill="#64748B">LEARN → BUILD → IMPROVE → REPEAT</text>
+  </g>
+
+  <!-- Right terminal -->
+  <g transform="translate(500 72)">
+    <rect width="590" height="458" rx="20" fill="#FFFFFF" fill-opacity=".88" stroke="#fff" stroke-opacity=".08"/>
+    <circle cx="24" cy="24" r="5" fill="#7C3AED"/><circle cx="42" cy="24" r="5" fill="#22D3EE"/><circle cx="60" cy="24" r="5" fill="#10B981"/>
+    <text x="88" y="29" font-family="monospace" font-size="11" fill="#64748B">parth@github: ~/profile</text>
+
+    <text x="34" y="78" font-family="monospace" font-size="14" fill="#475569">Hi 👋</text>
+    <text x="34" y="112" font-family="system-ui,sans-serif" font-size="30" font-weight="700" fill="#0F172A">I'm Parth Patil</text>
+    <text x="34" y="144" font-family="monospace" font-size="15" fill="url(#accent)">BCA Student | Full Stack Web Developer</text>
+    <text x="34" y="169" font-family="monospace" font-size="15" fill="#22D3EE">AI Explorer</text>
+    <rect x="34" y="179" width="9" height="18" fill="#22D3EE" opacity=".9"><animate attributeName="opacity" values=".1;1;.1" dur="1s" repeatCount="indefinite"/></rect>
+
+    <g font-family="monospace" font-size="12">
+      <text x="34" y="228" fill="#7C3AED">location</text><text x="130" y="228" fill="#334155">Raver, Jalgaon, Maharashtra</text>
+      <text x="34" y="256" fill="#7C3AED">education</text><text x="130" y="256" fill="#334155">BCA • 2nd Year</text>
+      <text x="34" y="284" fill="#7C3AED">college</text><text x="130" y="284" fill="#334155">G H Raisoni College of Engineering</text>
+      <text x="130" y="302" fill="#334155">and Management, Jalgaon</text>
+      <text x="34" y="330" fill="#7C3AED">focus</text><text x="130" y="330" fill="#334155">Full Stack Web Development • Generative AI</text>
+      <text x="34" y="358" fill="#7C3AED">email</text><text x="130" y="358" fill="#334155">parthpatil1234p@gmail.com</text>
+    </g>
+
+    <text x="34" y="397" font-family="monospace" font-size="11" fill="#64748B">skills</text>
+    <g font-family="monospace" font-size="11">
+      <rect x="34" y="408" width="165" height="28" rx="14" fill="#7C3AED" fill-opacity=".16" stroke="#7C3AED" stroke-opacity=".5"/>
+      <text x="48" y="427" fill="#E9D5FF">FULL STACK WEB DEV</text>
+      <rect x="209" y="408" width="105" height="28" rx="14" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".5"/>
+      <text x="229" y="427" fill="#CFFAFE">AI EXPLORER</text>
+    </g>
+  </g>
+
+  <g transform="translate(70 510)" font-family="monospace" font-size="11">
+    <text x="0" y="0" fill="#64748B">CONNECT</text>
+    <text x="86" y="0" fill="#0F172A">GitHub: parthpatil1234p-svg</text>
+    <text x="300" y="0" fill="#22D3EE">LinkedIn</text>
+    <text x="380" y="0" fill="#64748B">•</text>
+    <text x="400" y="0" fill="#475569">Portfolio: coming soon</text>
+  </g>
+
+  <rect x="0" y="0" width="1180" height="2" fill="url(#accent)" opacity=".55">
+    <animate attributeName="y" values="-5;610;-5" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</svg>
