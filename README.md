@@ -1,8 +1,4 @@
-Bhai 🔥 chalo **NEXT — Complete README.md**.
 
-Main tumhare diye hue master prompt ka **exact 16-section order** follow karunga, aur jo information available nahi hai usko invent nahi karunga.
-
-```markdown
 <!-- ========================================================= -->
 <!--                    PARTH PATIL PROFILE                    -->
 <!-- ========================================================= -->
